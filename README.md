@@ -8,7 +8,7 @@ int a,b,i;
 
 a=-1;
 
-cout<<“bilangan ganjil (1_100) adalah:”<<endl;
+cout<<“bilangan ganjil (1_100) adalah:” <<endl;
 
 for (i=1;i<=50;i++)
 
