@@ -3,6 +3,7 @@
 #include "conio.h"
 
 int main ()
+
 {
 
 int a,b,i;
