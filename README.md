@@ -8,7 +8,7 @@ int main ()
 
 int a,b,i;
 
-a=-1;
+a=-1 ;
 
 cout<<“bilangan ganjil (1_100) adalah:” <<endl;
 
