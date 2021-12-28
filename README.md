@@ -6,7 +6,7 @@ int main ()
 
 {
 
-int a,b,i;
+int a,b,i ;
 
 a=-1 ;
 
@@ -16,7 +16,7 @@ for (i=1;i<=50;i++)
 
 {
 
-b=2+a;
+b=2+a ;
 
 cout<<b<<” “;
 
