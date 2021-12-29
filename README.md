@@ -18,12 +18,12 @@ for (i=1;i<=50;i++)
 
 b=2+a ;
 
-cout<<b<<” “;
+cout<< b << ” “ ;
 
-a=b;
+a=b ;
 
 }
 
-getch ();
+getch () ;
 
 }
